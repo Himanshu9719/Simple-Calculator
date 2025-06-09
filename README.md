@@ -1,4 +1,4 @@
-# 🔢 Simple Calculator App
+# 🔢 Simple Calculator
 
 A beginner-friendly command-line calculator written in Python. It supports the following operations:
 
